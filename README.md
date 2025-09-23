@@ -7,13 +7,13 @@ Title
 
  - [Project Scope](#project-scope)
 
-Project Objectives
+- [Project Objectives](#project-objectives)
 
-Data Sources
+- [Data Sources](#data-sources)
 
-Tools
+- [Tools](#tools)
 
-Data Cleaning/ Preparation
+- [Data Cleaning/ Preparation](data-cleaning/-preparation)
 
 Data Analysis
 
