@@ -3,7 +3,7 @@
 
 Title
 
-- [Project overview]([#project-overview)
+- [Project Overview](#project-overview)
 
  - [Project Scope](#project-scope)
 
@@ -29,7 +29,7 @@ References
 
 Vote of thanks
 
-## Project overview
+## Project Overview
 
 Café Harmony is a fast-growing virtual café chain specializing in drinks, snacks, and light meals. With multiple locations across the city, the café is experiencing rapid growth but also facing challenges around sales optimization, stock management, and customer satisfaction.
 This project analyses two year of Café Harmony’s business data—sales, customers, inventory, employees, and feedback—to uncover insights that improve operational efficiency and customer experience.
