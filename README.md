@@ -5,7 +5,7 @@ Title
 
 - [Project overview]([#project-overview)
 
- Project Scope
+ - [Project Scope](#project-scope)
 
 Project Objectives
 
