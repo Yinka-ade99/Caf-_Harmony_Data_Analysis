@@ -13,17 +13,17 @@ Title
 
 - [Tools](#tools)
 
-- [Data Cleaning](data-cleaning)
+- [Data Cleaning](#data-cleaning)
 
-- [Data Analysis](data-analysis)
+- [Data Analysis](#data-analysis)
 
-- [Results](results)
+- [Results](#results)
 
-- [Recommendations](recommendations)
+- [Recommendations](#recommendations)
 
-- [Conclusion](conclusion)
+- [Conclusion](#conclusion)
 
-- [Limitations](limitations)
+- [Limitations](#limitations)
 
 Vote of thanks
 
@@ -82,7 +82,7 @@ The project used multiple datasets provided in Excel format:
   
 -	Interactive Dashboard with slicers
 
-## Data Cleaning/ Preparation
+## Data Cleaning
 
 - Removed duplicates and corrected missing/blank values.
   
@@ -108,7 +108,7 @@ The project answered the following business questions:
 
 6.  Customer Feedback: What common themes exist in satisfaction/dissatisfaction?
 
-## Results/Findings
+## Results
 
 **Sales Trend:** Sales show a positive trend but fluctuate seasonally with a spike in Q4.
 
@@ -122,7 +122,7 @@ The project answered the following business questions:
 
 **Feedback:** Customer feedback highlights praise for product quality but notes delays in service.
 
-## **Recommendations**
+## Recommendations
 
 -	Focus marketing campaigns on the 28–37 age group, especially for new product launches.
 
