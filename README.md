@@ -13,7 +13,7 @@ Title
 
 - [Tools](#tools)
 
-- [Data Cleaning/ Preparation](data-cleaning/-preparation)
+- [Data Cleaning](data-cleaning/-preparation)
 
 Data Analysis
 
