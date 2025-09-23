@@ -13,19 +13,17 @@ Title
 
 - [Tools](#tools)
 
-- [Data Cleaning](data-cleaning/-preparation)
+- [Data Cleaning](data-cleaning)
 
-Data Analysis
+- [Data Analysis](data-analysis)
 
-Results/Findings
+- [Results](results)
 
-Recommendations
+- [Recommendations](recommendations)
 
-Conclusion
+- [Conclusion](conclusion)
 
-Limitations
-
-References
+- [Limitations](limitations)
 
 Vote of thanks
 
