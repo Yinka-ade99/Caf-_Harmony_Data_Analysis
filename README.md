@@ -33,6 +33,7 @@ Café Harmony is a fast-growing virtual café chain specializing in drinks, snac
 This project analyses two year of Café Harmony’s business data—sales, customers, inventory, employees, and feedback—to uncover insights that improve operational efficiency and customer experience.
 An interactive Excel dashboard summarizes key metrics and trends for management decision-making.
 
+[Download here](https://github.com/Yinka-ade99/Caf-_Harmony_Data_Analysis/blob/main/Cafe_Harmony_Capstone_Project%20-%20Copy.xlsx)
 ## Project Scope
 
 The project covers five key operational areas of Café Harmony:
